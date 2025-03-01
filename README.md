@@ -1,6 +1,6 @@
 git clone https://github.com/codingacharya/createindexpage.git
 
-cd createindex
+cd createindexpage
 
 pip install streamlit python-docx
 
