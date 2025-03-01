@@ -4,4 +4,4 @@ cd createindexpage
 
 pip install streamlit python-docx
 
-streamlit run createindex.py
+streamlit run careateindex.py
